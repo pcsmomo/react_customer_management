@@ -1,6 +1,6 @@
 ## Commands by Noah
 
-cd Documents/Dev/git/portfolio/  
+cd Documents/Study/reactjs/example/react-fundamentals
 
 express noahportfolio  
 cd noahportfolio && npm install  
