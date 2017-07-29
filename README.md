@@ -2,7 +2,11 @@
 
 cd Documents/Study/reactjs/example/react-fundamentals
 
-express noahportfolio  
+npm run dev-server
+
+
+
+
 cd noahportfolio && npm install  
 
 DEBUG=noahportfolio:* npm start  
