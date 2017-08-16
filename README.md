@@ -1,25 +1,12 @@
 ## Commands by Noah
 
-cd Documents/Study/reactjs/example/react-fundamentals
+cd /Users/momo/Documents/Study/reactjs/example/react-fundamentals
 
 npm run dev-server
 
 
 
 
-cd noahportfolio && npm install  
-
-DEBUG=noahportfolio:* npm start  
-
-heroku
-heroku app:create noahportfolio  
-heroku git:remote –a noahportfolio  
-git push heroku master  
-heroku ps:scale --app noahportfolio web=1  
-
-git push origin master
-
-npm install --save emailjs
 
 
 * [How to set markdown plugin on sublime text 3](https://www.raywenderlich.com/119949/top-five-markdown-editors)
